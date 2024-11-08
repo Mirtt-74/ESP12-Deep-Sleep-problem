@@ -1,6 +1,6 @@
 # ESP12-Deep-Sleep-problem
 
-ESP12 deep sleep problem
+ESP12 Deep Sleep problem
 
 I encountered a similar issue that others have faced with ESP12 modules. While I’ve previously used ESP12E/F without any problems when waking from deep sleep, I recently bought a new batch of ESP12F modules that don’t wake up correctly—they enter a "zombie mode" instead.
 
